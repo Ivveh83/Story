@@ -1,4 +1,4 @@
-What did the tomato say to the other tomato who  got hit by a car?
+What did the senf say to the other senf who  got hit by a car?
 Come on Ketchup lets go.
 
 start "" "C:\Users\Ivar\AppData\Local\Programs\PyCharm Community\bin\pycharm64.exe" "C:\Users\Ivar\OneDrive\Skrivbord\Story\chapter3.txt"
